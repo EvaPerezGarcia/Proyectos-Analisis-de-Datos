@@ -23,12 +23,3 @@ En este repositorio, demuestro mis habilidades en análisis de datos. Desde el d
 * **Habilidades técnicas:** **Python**, **Limpieza y Transformación de Datos**, Pandas, Visualización de Datos (Matplotlib/Seaborn), Jupyter Notebook.
 
 [Ver el Proyecto Completo](Analisis_Demografico)
-
----
-
-## 📧 Contacto
-
-Estoy abierta a nuevas oportunidades y a conectar con otros profesionales del sector.
-
-* **LinkedIn:** [www.linkedin.com/in/eva-pérez-garcía]
-* **Correo Electrónico:** [evapeerezgar@gmail.com]
