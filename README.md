@@ -2,7 +2,7 @@
 
 ¡Bienvenida/o! Soy **Eva Pérez García**.
 
-Este repositorio actúa como mi portafolio, mostrando mis habilidades en análisis de datos, desde el diseño de bases de datos, hasta la implementación de modelos de limpieza y visualización con Python.
+En este repositorio, demuestro mis habilidades en análisis de datos. Desde el diseño de bases de datos, hasta la implementación de modelos de limpieza y visualización con Python.
 
 ---
 
@@ -10,7 +10,7 @@ Este repositorio actúa como mi portafolio, mostrando mis habilidades en anális
 
 ### 1. Diseño y Gestión de Base de Datos para un Marketplace (MySQL)
 
-* **Objetivo:** Construir la base de datos relacional (BBDD) para un sistema de compraventa (Marketplace), partiendo de un texto de negocio.
+* **Objetivo:** Construir la base de datos relacional (BBDD) para un sistema de compraventa, partiendo de un texto de negocio.
 * **Archivos clave:** Esquema (.mwb) y Scripts SQL (.sql).
 * **Habilidades técnicas:** Modelado, Diseño de BBDD, **SQL** (Inserciones de datos y Consultas Complejas).
 
@@ -28,7 +28,7 @@ Este repositorio actúa como mi portafolio, mostrando mis habilidades en anális
 
 ## 📧 Contacto
 
-Siempre estoy abierta a nuevas oportunidades y a conectar con otros profesionales del sector.
+Estoy abierta a nuevas oportunidades y a conectar con otros profesionales del sector.
 
 * **LinkedIn:** [www.linkedin.com/in/eva-pérez-garcía]
 * **Correo Electrónico:** [evapeerezgar@gmail.com]
