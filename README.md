@@ -10,21 +10,17 @@ Este repositorio actúa como mi portafolio, mostrando mis habilidades en anális
 
 ### 1. Diseño y Gestión de Base de Datos para un Marketplace (MySQL)
 
-Este proyecto demuestra mi capacidad para crear la infraestructura de información para una plataforma de compraventa.
-
-* **Objetivo:** Diseñar y modelar una **base de datos relacional** desde cero para un marketplace simulado.
+* **Objetivo:** Construir la base de datos relacional (BBDD) para un sistema de compraventa (Marketplace), partiendo de un texto de negocio.
 * **Archivos clave:** Esquema (.mwb) y Scripts SQL (.sql).
-* **Habilidades técnicas:** **Modelado de Datos (Esquema)**, **SQL** (Consultas Complejas e Inserción de datos), **Diseño de BBDD**.
+* **Habilidades técnicas:** Modelado, Diseño de BBDD, **SQL** (Inserciones de datos y Consultas Complejas).
 
 [Ver el Proyecto Completo](Proyecto_MySQL_Marketplace)
 
 ### 2. Análisis Socioeconómico y Demográfico (Python)
 
-Un proyecto completo sobre indicadores de desarrollo y bienestar en Europa.
-
 * **Objetivo:** Analizar y visualizar la correlación entre el Índice de Desarrollo Humano (IDH), el Producto Interno Bruto (PIB) y la Tasa de Natalidad.
 * **Archivos clave:** Jupyter Notebook (.ipynb) y Archivos de Datos (Excel y HTML).
-* **Habilidades técnicas:** **Python**, **Limpieza y Transformación de Datos**, **Pandas**, **Visualización de Datos** (Matplotlib/Seaborn), **Jupyter Notebook**.
+* **Habilidades técnicas:** **Python**, **Limpieza y Transformación de Datos**, Pandas, Visualización de Datos (Matplotlib/Seaborn), Jupyter Notebook.
 
 [Ver el Proyecto Completo](Analisis_Demografico)
 
