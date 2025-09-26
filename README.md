@@ -18,6 +18,6 @@ En este repositorio, demuestro mis habilidades en análisis de datos. Desde el d
 
 * **Objetivo:** Analizar y visualizar la correlación entre el Índice de Desarrollo Humano (IDH), el Producto Interno Bruto (PIB) y la Tasa de Natalidad.
 * **Archivos clave:** Jupyter Notebook (.ipynb) y Archivos de Datos (Excel y HTML).
-* **Habilidades técnicas:** **Python**, **Limpieza y Transformación de Datos**, Pandas, Visualización de Datos (Matplotlib/Seaborn), Jupyter Notebook.
+* **Habilidades técnicas:** **Python**, **Limpieza y Transformación de Datos**, Pandas, Visualización de Datos (Matplotlib), Jupyter Notebook.
 
 [Ver el Proyecto Completo](Analisis_Demografico)
