@@ -1,6 +1,4 @@
-# Portafolio de Eva Pérez García: Análisis de datos
-
-¡Bienvenida/o! Soy **Eva Pérez García**.
+# Proyectos Análisis de datos
 
 En este repositorio, demuestro mis habilidades en análisis de datos. Desde el diseño de bases de datos, hasta la implementación de modelos de limpieza y visualización con Python.
 
