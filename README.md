@@ -21,3 +21,13 @@ En este repositorio, demuestro mis habilidades en análisis de datos. Desde el d
 * **Habilidades técnicas:** **Python**, **Limpieza y Transformación de Datos**, Pandas, Visualización de Datos (Matplotlib), Jupyter Notebook.
 
 [Ver el Proyecto Completo](Analisis_Demografico)
+
+### 3. Limpieza y Visualización de Datos de Consultoría (Power BI)
+
+* **Objetivo:** Practicar la limpieza y visualización de datos de una empresa ficticia de consultoría, transformando datos “sucios” en un dashboard interactivo en Power BI.
+* **Archivos clave:**  
+  - `datos_sucios.xlsx` → archivo original generado por IA, con errores intencionales (~1.200 filas).  
+  - `datos_limpios_dashboard.pbix` → versión limpia y corregida, con dashboard en Power BI.  
+* **Habilidades técnicas:** **Power Query**, limpieza de datos, normalización, corrección de errores, creación de columnas calculadas, y **Power BI** para dashboards interactivos.
+
+[Ver el Proyecto Completo](Proyecto_Consultoria_PowerBI)
