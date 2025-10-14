@@ -4,8 +4,8 @@ Este proyecto tiene como objetivo practicar la **limpieza y visualización de da
 
 ## Archivos del proyecto
 
-- datos_sucios.xlsx: generado por IA, contiene 1.200 filas de datos simulados con errores intencionales.
-- datos_limpios_dashboard.pbix: versión limpia y corregida tras aplicar Power Query, así como el dashboard.
+- `datos_sucios.xlsx`: generado por IA, contiene 1.200 filas de datos simulados con errores intencionales.
+- `datos_limpios_dashboard.pbix`: versión limpia y corregida tras aplicar Power Query, así como el dashboard.
 
 ## Limpieza de datos realizada
 
