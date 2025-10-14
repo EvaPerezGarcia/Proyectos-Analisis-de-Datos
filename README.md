@@ -1,6 +1,6 @@
 # Proyectos Análisis de datos
 
-En este repositorio, demuestro mis habilidades en análisis de datos. Desde el diseño de bases de datos, hasta la implementación de modelos de limpieza y visualización con Python.
+En este repositorio, demuestro mis habilidades en análisis de datos, desde el diseño de bases de datos hasta la implementación de modelos de limpieza y visualización de datos utilizando Python y Power BI.
 
 ---
 
