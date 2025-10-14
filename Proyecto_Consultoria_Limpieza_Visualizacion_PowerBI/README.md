@@ -1,14 +1,13 @@
 # Proyecto: Consultoría – Limpieza y Visualización de Datos con Power BI
 
-Este proyecto tiene como objetivo practicar la **limpieza y visualización de datos** en un contexto de consultoría, utilizando Power Query y Power BI. El proyecto simula el trabajo con datos de una empresa ficticia, y demuestra cómo transformar información “sucia” en un dashboard interactivo y profesional.
+Este proyecto tiene como objetivo practicar la **limpieza y visualización de datos** en un contexto de consultoría, utilizando Power Query y Power BI. El proyecto simula el trabajo con datos de una empresa ficticia, y demuestra cómo transformar información “sucia” en un dashboard interactivo.
 
-## 📁 Archivos del proyecto
+## Archivos del proyecto
 
-- `consultoria_novaconsulting_sucia.xlsx`: generado por IA, contiene ~1.200 filas de datos simulados con errores intencionales (fechas mal formateadas, valores nulos, duplicados, inconsistencias de nombres y categorías, facturación incorrecta, etc.).  
-- `consultoria_novaconsulting_limpia.xlsx`: versión **limpia y corregida** tras aplicar Power Query.  
-- `Dashboard_PowerBI.pbix`: dashboard en Power BI que resume métricas clave de proyectos y facturación.
+- consultoria_novaconsulting_sucia.xlsx: generado por IA, contiene 1.200 filas de datos simulados con errores intencionales.
+- consultoria_novaconsulting_limpia.pbix: versión limpia y corregida tras aplicar Power Query, así como el dashboard.
 
-## 🧹 Limpieza de datos realizada
+## Limpieza de datos realizada
 
 - Corrección de tipos de datos (fechas, números).  
 - Normalización de nombres de clientes, consultores, ciudades y países.  
@@ -19,7 +18,7 @@ Este proyecto tiene como objetivo practicar la **limpieza y visualización de da
 
 ## 📊 Dashboard Power BI
 
-El dashboard ofrece una **visión ejecutiva** del rendimiento de la consultora, incluyendo:
+El dashboard ofrece una visión del rendimiento de la consultora, incluyendo:
 
 - Tarjetas con métricas clave: total de horas, tarifa media y facturación total.  
 - Gráficos por sector, rol y cliente.  
