@@ -1,4 +1,4 @@
-# Consultoría – Limpieza y Visualización de Datos con Power BI
+# Consultoría - Limpieza y Visualización de Datos con Power BI
 
 Este proyecto tiene como objetivo practicar la **limpieza y visualización de datos** en un contexto de consultoría, utilizando Power Query y Power BI. El proyecto simula el trabajo con datos de una empresa ficticia, y demuestra cómo transformar información “sucia” en un dashboard interactivo.
 
