@@ -28,3 +28,23 @@ El dashboard muestra de manera clara y visual las métricas principales de la co
 
 > Nota: El archivo inicial fue generado por IA, mientras que la limpieza, transformación de datos y creación del dashboard fueron realizados manualmente para demostrar habilidades en Power Query y Power BI.
 
+## Copyright y derechos de autor
+
+© 2026. Todos los derechos reservados sobre los elementos originales de este proyecto.
+
+El trabajo original desarrollado para este proyecto, incluyendo las transformaciones de datos, las reglas de limpieza, la estructura del proceso, las configuraciones, las medidas y cálculos creados, el diseño del dashboard, las visualizaciones originales y la documentación, queda sujeto a los derechos de propiedad intelectual que resulten aplicables.
+
+**Sin autorización previa y por escrito del titular de los derechos, queda prohibido:**
+
+- Copiar o reproducir total o parcialmente los elementos originales del proyecto.
+- Reutilizar las transformaciones, medidas, cálculos o soluciones desarrolladas en otros proyectos.
+- Adaptar, modificar, redistribuir o publicar los elementos originales del trabajo.
+- Incorporar el dashboard, sus diseños o sus componentes originales a proyectos propios o de terceros.
+- Utilizar los elementos protegidos con fines comerciales, académicos o profesionales sin la autorización correspondiente.
+
+La publicación de este repositorio en GitHub tiene fines exclusivamente informativos y de consulta. **No implica la concesión de ninguna licencia para reutilizar, copiar, modificar, distribuir o explotar los elementos originales del proyecto.**
+
+Los datos simulados generados mediante IA y las herramientas, tecnologías y materiales de terceros quedan sujetos a las condiciones y derechos que les sean aplicables. Esta declaración no pretende atribuir al autor derechos exclusivos sobre materiales ajenos ni sobre funcionalidades propias de Power BI o Power Query.
+
+Todos los derechos sobre los elementos originales del proyecto quedan reservados. Cualquier uso que requiera autorización deberá contar con el consentimiento previo y por escrito del titular de los derechos.
+
